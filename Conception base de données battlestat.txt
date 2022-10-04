@@ -1,0 +1,8 @@
+DATABASE BATTLESTAT
+
+---------- Tables ---------
+Base1(id,
+
+Base2(id,
+
+Base3(id,
